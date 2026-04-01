@@ -1,7 +1,7 @@
 
 # Test Details
 
-## part of IoT Hardware Hacking course by digitalandrew
+### Part of the IoT Hardware Hacking course by digitalandrew
 https://github.com/digitalandrew/iot_hardware_hacking
 
 ## Target Information
